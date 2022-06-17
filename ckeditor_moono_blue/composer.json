@@ -1,0 +1,27 @@
+{
+    "name": "jshimota01/drupal/ckeditor_moono_blue_skin",
+    "description": "Rudimentary module to add a blue colorized icons skin to ckeditor 4.",
+    "homepage": "http://www.e-wiz.com/",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Shimota",
+            "email": "jshimota@e-wiz.com",
+            "homepage": "https://github.com/jshimota01"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/jshimota01/drupal/ckeditor_moono_blue_skin/issues"
+    },
+    "require": {
+        "php": ">=7.1",
+        "composer-plugin-api": "^1.1 || ^2.0",
+        "composer/installers": "^1.0 || ^2.0"
+    },
+    "require-dev": {
+        "composer/composer": "^2.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
